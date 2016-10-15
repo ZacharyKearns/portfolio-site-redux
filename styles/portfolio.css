@@ -61,11 +61,11 @@
 */
 
 .goldmans {
-	background:#fff url(assets/goldmans.jpg) top no-repeat;
+	background:#fff url(assets/game-of-life.png) top no-repeat;
 }
 
 .orange {
-	background:#fff url(assets/orange.jpg) top no-repeat;
+	background:#fff url(assets/calculator.png) top no-repeat;
 }
 
 .tesco {
@@ -93,5 +93,5 @@
 }
 
 .pwul {
-	background:#fff url(assets/pwul.jpg) top no-repeat;
+	background:#fff url(assets/twitch.png) top no-repeat;
 }
