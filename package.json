@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A portfolio template built with Redux and React",
   "scripts": {
+    "postinstall": "npm run build",
     "slate": "rm -rf node_modules && npm install",
     "clean": "rm -rf dist",
     "start": "NODE_ENV=development node src/server/index.js --progress --colors --profile",
