@@ -1,5 +1,2 @@
-// require('babel/register');
-require('babel-register')({
-    presets: ['es2015', 'react']
-});
+require('babel/register');
 require('./server');
